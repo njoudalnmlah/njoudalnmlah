@@ -3,7 +3,7 @@
 <p align="center">
   - 🌱 I’m currently learning Flutter<br>
   - 📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/njoudkalnamlah/">linkedin:</a>
+  <a href="https://www.linkedin.com/in/njoudkalnamlah/">linkedin❗️</a>
 </p>
 <!--
 **njoudalnmlah/njoudalnmlah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
