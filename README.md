@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<h1 align="center">Hi I'm njoud👋</h1>
+<p align="center">
+  - 🌱 I’m currently learning Flutter
+  - 📫 How to reach me: 
+  <a href="https://www.linkedin.com/in/njoudkalnamlah/"></a>
+</p>
 <!--
 **njoudalnmlah/njoudalnmlah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
