@@ -1,5 +1,4 @@
 ### Hi there 👋
-<h1 align="center">Hi I'm njoud👋</h1>
 <p align="center">
   - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/njoudkalnamlah/">linkedin❗️</a>
